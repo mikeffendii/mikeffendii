@@ -1,10 +1,10 @@
-<h3> 👋 Hi, I’m Muhammad Ismail Khan Effendi </h3> 
-<h3> 👀 I’m interested in ML, DL, CV & NLP </h3> 
-<h3> 🌱 I’m currently learning & implementing CV & NLP </h3> 
-<h3> 💞️ I’m looking to collaborate on AI projects </h3> 
+<h3> 👋 Hi, I’m Muhammad Ismail Khan Effendi. </h3> 
+<h3> 👀 I’m interested in ML, DL, CV & NLP. </h3> 
+<h3> 🌱 I’m currently learning & implementing CV & NLP. </h3> 
+<h3> 💞️ I’m looking to collaborate on AI projects. </h3> 
 <h3> 📫 Reach me at my: 
 <br> <br>
-
+📌
 <a href="https://www.facebook.com/mikeffendii/">
   <img align="center" alt="mikeffendii's facebook" src="https://img.icons8.com/fluency/48/null/facebook-new.png"/>
 </a>
