@@ -45,7 +45,7 @@
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mikeffendii&show_icons=true&locale=en&layout=compact" alt="mikeffendii" /></p>
 
 
-
+<a href="https://github.com/mikeffendii"><img src="contributions.svg"></a>
 
 <!--- 
 mikeffendii/mikeffendii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
