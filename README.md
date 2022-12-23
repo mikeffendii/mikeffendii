@@ -40,7 +40,7 @@
 
 🔭   <img src="https://komarev.com/ghpvc/?username=mikeffendii&label=Profile%20views&color=0e75b6&style=flat" alt="mikeffendii" /> 
 
-<img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
+<img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics:
 
 <p align="left">
   <a href="https://github.com/mikeffendii">
