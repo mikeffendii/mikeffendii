@@ -1,6 +1,6 @@
 <h3> 👋 Hi, I’m Muhammad Ismail Khan Effendi. </h3> 
 <h3> 👀 I’m interested in ML, DL, CV & NLP. </h3> 
-<h3> 🌱 I’m currently learning & implementing CV & NLP. </h3> 
+<h3> 🌱 I’m currently learning & implementing CV, NLP, React & Angular. </h3> 
 <h3> 💞️ I’m looking to collaborate on AI projects. </h3> 
 <h3> 📫 Reach me at my: 
 <br> <br>
@@ -38,11 +38,11 @@
 🔭   <img src="https://komarev.com/ghpvc/?username=mikeffendii&label=Profile%20views&color=0e75b6&style=flat" alt="mikeffendii" /> 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mikeffendii&show_icons=true&locale=en" alt="mikeffendii" /></p>
+<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=mikeffendii&show_icons=true&locale=en" alt="mikeffendii" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mikeffendii&" alt="mikeffendii" /></p>
+<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=mikeffendii&" alt="mikeffendii" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikeffendii&show_icons=true&locale=en&layout=compact" alt="mikeffendii" /></p>
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mikeffendii&show_icons=true&locale=en&layout=compact" alt="mikeffendii" /></p>
 
 
 
