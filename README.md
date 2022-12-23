@@ -48,8 +48,10 @@
 <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=mikeffendii&theme=dark&show_icons=true" alt="mikeffendii" >
   </a>
 </p>
-<p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikeffendii&show_icons=true&theme=dark&locale=en&layout=compact" alt="mikeffendii" ></p>
+
+<p align="left">
+<img width="49.5%" src="https://github-readme-activity-graph.cyclic.app/graph?username=mikeffendii&theme=xcode">
+<img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikeffendii&show_icons=true&theme=dark&locale=en&layout=compact" alt="mikeffendii" ></p>
 
 <p align="center">
 <a href="https://github.com/mikeffendii"><img src="contributions.svg"></a>
