@@ -41,11 +41,11 @@
 🔭   <img src="https://komarev.com/ghpvc/?username=mikeffendii&label=Profile%20views&color=0e75b6&style=flat" alt="mikeffendii" /> 
 
 
-<p><img width="80%" src="https://github-readme-stats.vercel.app/api?username=mikeffendii&show_icons=true&locale=en" alt="mikeffendii" /></p>
+<p><img width="50%" src="https://github-readme-stats.vercel.app/api?username=mikeffendii&theme=dark&show_icons=true&locale=en" alt="mikeffendii" /></p>
 
-<p><img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=mikeffendii&" alt="mikeffendii" /></p>
+<p><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=mikeffendii&theme=dark&show_icons=true" alt="mikeffendii" /></p>
 
-<p><img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikeffendii&show_icons=true&locale=en&layout=compact" alt="mikeffendii" /></p>
+<p><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikeffendii&show_icons=true&theme=dark&locale=en&layout=compact" alt="mikeffendii" /></p>
 
 
 <a href="https://github.com/mikeffendii"><img src="contributions.svg"></a>
@@ -54,3 +54,9 @@
 mikeffendii/mikeffendii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<p align="left">
+  <a href="https://github.com/mikeffendii">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=torrinworx&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=torrinworx&theme=radical&hide_border=true">		  
+  </a>
+</p>
