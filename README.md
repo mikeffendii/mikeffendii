@@ -1,5 +1,6 @@
 <h1 align="center">
-  <img width="40%" src="https://media0.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif?cid=ecf05e47qjg85psbj19i4as0jyjettm8o58u5jnt90dh6rgr&rid=giphy.gif">
+  <a href="https://github.com/mikeffendii">
+  <img width="40%" src="https://media0.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif?cid=ecf05e47qjg85psbj19i4as0jyjettm8o58u5jnt90dh6rgr&rid=giphy.gif"> </a>
 </h1>
 <h3> 👋 Hi, I’m Muhammad Ismail Khan Effendi. </h3> 
 <h3> 👀 I’m interested in ML, DL, CV & NLP. </h3> 
