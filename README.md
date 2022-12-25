@@ -38,21 +38,25 @@
 
 </p>
 
-🔭   <img src="https://komarev.com/ghpvc/?username=mikeffendii&label=Profile%20views&color=0e75b6&style=flat" alt="mikeffendii" /> 
+🔭   <a href="https://github.com/mikeffendii"> <img src="https://komarev.com/ghpvc/?username=mikeffendii&label=Profile%20views&color=0e75b6&style=flat" alt="mikeffendii" /> </a>
 
 <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics:
 
 <p align="left">
   <a href="https://github.com/mikeffendii">
 <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=mikeffendii&theme=dark&show_icons=true&locale=en" alt="mikeffendii" >
-<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=mikeffendii&theme=dark&show_icons=true" alt="mikeffendii" >
-  </a>
+<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=mikeffendii&theme=dark&show_icons=true" alt="mikeffendii" > </a>
 </p>
 
-<p> <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=mikeffendii&theme=xcode" style="border-radius: 10px; border: 1.5px solid white"> </p>
+<p> 
+  <a href="https://github.com/mikeffendii">
+  <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=mikeffendii&theme=xcode" style="border-radius: 10px; border: 1.5px solid white"> </a>  
+</p>
 
 <p align="center">
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikeffendii&show_icons=true&theme=dark&locale=en&layout=compact" alt="mikeffendii" ></p>
+  <a href="https://github.com/mikeffendii">
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikeffendii&show_icons=true&theme=dark&locale=en&layout=compact" alt="mikeffendii" > </a>
+</p>
 
 <p align="center">
 <a href="https://github.com/mikeffendii"><img src="contributions.svg"></a>
@@ -60,7 +64,4 @@
 <!--- 
 mikeffendii/mikeffendii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. 
-
-fahsdkfhasdfksahdfahkfjasfhaskdjf  fahsdkfhasdfksahdfahkfjasfhaskdjf fahsdkfhasdfksahdfahkfjasfhaskdjffahsdkfhasdfksahdfahkfjasfhaskdjffahsdkfhasdfksahdfahkfjasfhaskdjffahsdkfhasdfksahdfahkfjasfhaskdjf
-
 --->
