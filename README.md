@@ -68,4 +68,10 @@
 <!--- 
 mikeffendii/mikeffendii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. 
+
+<p> 
+  <a href="https://github.com/mikeffendii">
+<img width="100%" src="https://github-stats-alpha.vercel.app/api?username=mikeffendii&cc=000&tc=fff" > </a>
+</p>
+
 --->
