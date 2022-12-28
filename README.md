@@ -33,6 +33,10 @@
 <a href="https://www.github.com/mikeffendii/">
   <img align="center" alt="mikeffendii's github" src="https://img.icons8.com/fluency/48/000000/github.png"/>
 </a>
+  
+ <a href="https://www.kaggle.com/mikeffendii/">
+  <img align="center" alt="mikeffendii's kaggle" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-color-tal-revivo.png"/>
+</a> 
 
 <a href="mailto:mikeffendii@gmail.com">
   <img align="center" alt="mikeffendii's gmail" src="https://img.icons8.com/fluency/48/null/gmail-new.png"/>
