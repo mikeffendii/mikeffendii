@@ -46,8 +46,8 @@
 
 <p align="left">
   <a href="https://github.com/mikeffendii">
-<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=mikeffendii&show_icons=true&theme=dark">
-<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=mikeffendii&theme=dark&show_icons=true" alt="mikeffendii" > </a>
+<img width="49.4%" src="https://github-readme-stats.vercel.app/api?username=mikeffendii&show_icons=true&theme=dark" style="border-radius: 10px; border: 1.5px solid white">
+<img width="49.4%" src="https://github-readme-streak-stats.herokuapp.com/?user=mikeffendii&theme=dark" alt="mikeffendii" style="border-radius: 10px; border: 1.5px solid white"> </a>
 </p>
 
 <p> 
