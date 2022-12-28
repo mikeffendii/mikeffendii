@@ -35,7 +35,7 @@
 </a>
   
  <a href="https://www.kaggle.com/mikeffendii/">
-  <img align="center" alt="mikeffendii's kaggle" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-color-tal-revivo.png"/>
+  <img align="center" alt="mikeffendii's kaggle" src="https://user-images.githubusercontent.com/91178270/209803041-2d993a8b-c17b-4078-861f-b3ebca6208fc.png"/>
 </a> 
 
 <a href="mailto:mikeffendii@gmail.com">
