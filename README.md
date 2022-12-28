@@ -44,12 +44,16 @@
 
 <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics:
 
-<p align="left">
+<p>
   <a href="https://github.com/mikeffendii">
-<img width="49.3%" src="https://github-readme-stats.vercel.app/api?username=mikeffendii&show_icons=true&theme=dark" style="border-radius: 10px; border: 1.5px solid white">
-<img width="49.3%" src="https://github-readme-streak-stats.herokuapp.com/?user=mikeffendii&theme=dark" alt="mikeffendii" style="border-radius: 10px; border: 1.5px solid white"> </a>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=mikeffendii&show_icons=true&theme=dark"> </a>
 </p>
 
+<p>
+  <a href="https://github.com/mikeffendii">
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=mikeffendii&theme=dark"> </a>
+</p>
+  
 <p> 
   <a href="https://github.com/mikeffendii">
   <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=mikeffendii&theme=xcode" style="border-radius: 10px; border: 1.5px solid white"> </a>  
