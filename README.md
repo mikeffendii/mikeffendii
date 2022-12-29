@@ -59,7 +59,7 @@
 
 <p>
   <a href="https://github.com/mikeffendii">
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=mikeffendii&theme=dark"> </a>
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=mikeffendii"> </a>
 </p>
   
 <p> 
