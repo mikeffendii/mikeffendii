@@ -54,8 +54,8 @@
 
 <p>
   <a href="https://github.com/mikeffendii">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=mikeffendii&show_icons=true&theme=dark"> </a>
-</p>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=mikeffendii&show_icons=true"> </a>
+</p
 
 <p>
   <a href="https://github.com/mikeffendii">
