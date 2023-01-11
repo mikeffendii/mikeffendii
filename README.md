@@ -38,10 +38,6 @@
   <img align="center" alt="mikeffendii's gmail" src="https://img.icons8.com/fluency/48/null/gmail-new.png"/>
 </a>
 
-<a href="https://www.discord.com/mikeffendii/">
-  <img align="center" alt="mikeffendii's discord" src="https://user-images.githubusercontent.com/91178270/209803854-d680b185-8777-46ea-9cec-32ba8bb9d868.png"/>
-</a>
-
 <a href="https://www.kaggle.com/mikeffendii/">
   <img align="center" alt="mikeffendii's kaggle" src="https://user-images.githubusercontent.com/91178270/209803041-2d993a8b-c17b-4078-861f-b3ebca6208fc.png"/>
 </a>  
@@ -80,6 +76,12 @@
 <!--- 
 mikeffendii/mikeffendii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. 
+
+
+<a href="https://www.discord.com/mikeffendii/">
+  <img align="center" alt="mikeffendii's discord" src="https://user-images.githubusercontent.com/91178270/209803854-d680b185-8777-46ea-9cec-32ba8bb9d868.png"/>
+</a>
+
 <p> 
   <a href="https://github.com/mikeffendii">
 <img width="100%" src="https://github-stats-alpha.vercel.app/api?username=mikeffendii&cc=000&tc=fff" > </a>
