@@ -3,8 +3,8 @@
   <a href="https://github.com/mikeffendii">
   <img width="40%" src="https://media0.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif?cid=ecf05e47qjg85psbj19i4as0jyjettm8o58u5jnt90dh6rgr&rid=giphy.gif"> </a>
 </h1> 
-<h3> 👋 Hi, I’m Muhammad Ismail Khan Effendi.  </h3> 
-<h3> 👀 I’m interested in CV & NLP. </h3> 
+<h3> 👋 Hi, I’m Muhammad Ismail Khan Effendi. <img src="./butterfly.gif" width=20%><img src="./dog.gif" width=20%> </h3> 
+<h3> 👀 I’m interested in CV & NLP.  </h3> 
 <h3> 🌱 I’m currently learning & implementing CV, NLP, React & Angular. </h3> 
 <h3> 💞️ I’m looking to collaborate on AI projects. </h3> 
 <h3> 📫 Reach me at my: 
