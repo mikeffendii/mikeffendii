@@ -43,7 +43,10 @@
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=mikeffendii&theme=dark"> </a> 
 </p>
   
-
+<p> 
+  <a href="https://github.com/mikeffendii">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mikeffendii&theme=xcode" style="border-radius: 10px; border: 1.5px solid white"> </a>
+</p>  
 
 <p align="center">
   <a href="https://github.com/mikeffendii">
